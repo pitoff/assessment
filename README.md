@@ -12,6 +12,7 @@
 Project Consists of Laravel Default Authentication, Simple CRUD, Use of Interface and Service Class, Testing, and Relationship
 
 ## How To
+- [Clone project].
 - [Composer Install].
 - [Duplicate env.example and rename to env].
 - [Setup Database].
@@ -20,5 +21,5 @@ Project Consists of Laravel Default Authentication, Simple CRUD, Use of Interfac
 - [Seed your database to have a default user to login with --php artisan db:seed]
 - [login with email from users table and default password = 12345]
 - [Your can now create users, update user, view users, archive users, retrieve archived users, view user and background Information]
-- [Run test with php artisan db:test]
+- [Run test with php artisan test]
 
