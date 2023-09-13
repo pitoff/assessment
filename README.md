@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Requirements
+- [Php 8.0 **]
+
 ## About Assessment
 
 Project Consists of Laravel Default Authentication, Simple CRUD, Use of Interface and Service Class, Testing, and Relationship
