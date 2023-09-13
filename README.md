@@ -19,6 +19,7 @@ Project Consists of Laravel Default Authentication, Simple CRUD, Use of Interfac
 - [Composer Install].
 - [Duplicate env.example and rename to env].
 - [Setup Database].
+- [npm install, npm run build]
 - [php artisan config:clear, php artisan cache:clear, composer dump-autoload, php artisan optimize]
 - [Migrate your database -- php artisan migrate].
 - [Seed your database to have a default user to login with --php artisan db:seed]
